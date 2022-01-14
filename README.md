@@ -53,6 +53,8 @@ Stutt samantekt af öllu sem tilvonandi foreldrar þurfa að vita.
 * Fyrstu 2 árin reyna á samband foreldra sökum þreytu og barnsgráturs.
 * Mynd af vigtinni sem heimaljósmæður koma með:
 
+![Alt](/img/kjotkrokur.png "Krókurinn")
+
 * Það er fullkomlega eðlilegt að dispute-a allar niðurstöður sem koma úr þessari græju þó svo að landlæknir hafi approve-að þetta 1920. Go digital.
 * Ekki setja teppi yfir vagninn þegar barnið sefur úti (Co2)
 * Ekki láta barn sofa eftirlitslaust í bílstól.
@@ -122,4 +124,5 @@ Teskeið vatn\
 1. Salt og pipar og nautakraftur útí og gefa fimmur. Varúð að nautakraftur getur oft verið mjög saltur
 
 
-
+## Appendix
+![Alt](/img/playlist.png "Róandi tónlist")
