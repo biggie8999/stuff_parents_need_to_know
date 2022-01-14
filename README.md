@@ -125,4 +125,4 @@ Teskeið vatn\
 
 
 ## Appendix
-![Alt](/img/playlist.png "Róandi tónlist")
+![Alt](/img/playlist.PNG "Róandi tónlist")
